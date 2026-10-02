@@ -86,5 +86,4 @@ Text-to-Speech Output
 
 
 
-
-![alt text](<Sign Language Translator Project Overview.png>)
+<img width="1536" height="1024" alt="Sign Language Translator Project Overview" src="https://github.com/user-attachments/assets/1490c796-ac54-4d0f-907f-a652d4db668d" />
