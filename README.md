@@ -83,7 +83,8 @@ Text Translation
 Selected Language
    ↓
 Text-to-Speech Output
+```
 
 
+<img width="1536" height="1024" alt="Sign Language Translator Project Overview" src="https://github.com/user-attachments/assets/2ee9b47d-4a74-4efa-a988-0e61a9de1c77" />
 
-<img width="1536" height="1024" alt="Sign Language Translator Project Overview" src="https://github.com/user-attachments/assets/1490c796-ac54-4d0f-907f-a652d4db668d" />
