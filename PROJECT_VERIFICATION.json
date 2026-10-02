@@ -1,0 +1,31 @@
+{
+  "max_num_hands": 2,
+  "gesture_count": 15,
+  "gestures": [
+    "HELLO",
+    "THANK YOU",
+    "YES",
+    "NO",
+    "I LOVE YOU",
+    "PLEASE",
+    "SORRY",
+    "HELP",
+    "FRIEND",
+    "GOOD",
+    "EAT",
+    "DRINK",
+    "BOOK",
+    "MORE",
+    "STOP"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Telugu",
+    "Tamil",
+    "Malayalam",
+    "Kannada",
+    "Bengali"
+  ],
+  "reference_image_included": true
+}
